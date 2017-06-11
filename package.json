@@ -1,0 +1,16 @@
+{
+  "name": "sampledoctorapp",
+  "version": "1.0.0",
+  "description": "Sample Application to Demonstrate Restful Services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NeoScript <http://www.neoscript.in>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "q": "^1.5.0"
+  }
+}
